@@ -1,1 +1,1 @@
-# ist-311-group-project
+# IST 311 - Team 3 Group Project
