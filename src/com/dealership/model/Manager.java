@@ -6,4 +6,7 @@ package com.dealership.model;
  */
 public class Manager extends Employee {
 
+    public Manager(String lastName, String firstName, int employeeID, String accountName, String accountPassword, String jobRole) {
+        super(lastName, firstName, employeeID, accountName, accountPassword, jobRole);
+    }
 }
