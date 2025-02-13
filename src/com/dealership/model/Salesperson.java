@@ -4,6 +4,6 @@ package com.dealership.model;
  * Additional methods include sellVehicle()
  * sendToDetailing()
  */
-public class Salesperson {
+public class Salesperson extends Employee {
 
 }

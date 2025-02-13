@@ -1,5 +1,5 @@
 package com.dealership.model;
 
-public class Detailer {
+public class Detailer extends Employee {
 
 }

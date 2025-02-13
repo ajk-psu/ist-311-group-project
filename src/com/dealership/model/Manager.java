@@ -4,6 +4,6 @@ package com.dealership.model;
  * Additional methods include hireEmployee() 
  * and fireEmployee()
  */
-public class Manager {
+public class Manager extends Employee {
 
 }
